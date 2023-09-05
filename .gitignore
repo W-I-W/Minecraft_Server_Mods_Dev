@@ -9,7 +9,9 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
 /[Ll]ogs/
+/[Cc]rash-reports/
 
 # Package Files #
 *.jar
